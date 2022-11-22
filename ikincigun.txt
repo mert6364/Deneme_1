@@ -1,4 +1,4 @@
 Git Github Ikinci Gun Ilk Deneme
 Git Github Ikinci Gun Ikinci Deneme
 Git Github Ikinci Gun Ucuncu Deneme
-Git Github Ikinci Gun Mert Branch Deneme
+Git Github Ikinci Gun Mert Branch'i ilk deneme Deneme
